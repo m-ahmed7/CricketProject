@@ -1,0 +1,184 @@
+PlayerName,Runs,Minutes,BallsFaced,Fours,Sixes,StrikeRate,MatchInning,Opposition,Ground,Year,Home/Away,Nationality
+JE Root,73.0,289.0,229.0,4.0,0.0,31.87,1.0,india,Nagpur,2012,0,England
+JE Root,20.0,64.0,56.0,1.0,1.0,35.71,3.0,india,Nagpur,2012,0,England
+JE Root,15.0,114.0,80.0,1.0,0.0,18.75,2.0,australia,Adelaide,2013,0,England
+JE Root,87.0,269.0,194.0,9.0,0.0,44.84,4.0,australia,Adelaide,2013,0,England
+JE Root,2.0,14.0,7.0,0.0,0.0,28.57,2.0,australia,Brisbane,2013,0,England
+JE Root,26.0,121.0,86.0,4.0,0.0,30.23,4.0,australia,Brisbane,2013,0,England
+JE Root,24.0,116.0,82.0,2.0,0.0,29.26,1.0,australia,Melbourne,2013,0,England
+JE Root,15.0,37.0,24.0,1.0,0.0,62.5,3.0,australia,Melbourne,2013,0,England
+JE Root,4.0,23.0,16.0,1.0,0.0,25.0,2.0,australia,Perth,2013,0,England
+JE Root,19.0,125.0,88.0,1.0,0.0,21.59,4.0,australia,Perth,2013,0,England
+JE Root,16.0,78.0,52.0,1.0,0.0,30.76,1.0,australia,Chester-le-Street,2013,1,England
+JE Root,2.0,35.0,19.0,0.0,0.0,10.52,3.0,australia,Chester-le-Street,2013,1,England
+JE Root,6.0,28.0,14.0,1.0,0.0,42.85,1.0,australia,Lord's,2013,1,England
+JE Root,180.0,466.0,338.0,18.0,2.0,53.25,3.0,australia,Lord's,2013,1,England
+JE Root,8.0,97.0,57.0,1.0,0.0,14.03,2.0,australia,Manchester,2013,1,England
+JE Root,13.0,95.0,57.0,1.0,0.0,22.8,4.0,australia,Manchester,2013,1,England
+JE Root,30.0,99.0,64.0,6.0,0.0,46.87,1.0,australia,Nottingham,2013,1,England
+JE Root,5.0,34.0,31.0,1.0,0.0,16.12,3.0,australia,Nottingham,2013,1,England
+JE Root,68.0,234.0,184.0,11.0,0.0,36.95,2.0,australia,The Oval,2013,1,England
+JE Root,11.0,20.0,17.0,2.0,0.0,64.7,4.0,australia,The Oval,2013,1,England
+JE Root,45.0,254.0,176.0,4.0,0.0,25.56,2.0,new zealand,Auckland,2013,0,England
+JE Root,29.0,107.0,79.0,2.0,0.0,36.7,4.0,new zealand,Auckland,2013,0,England
+JE Root,4.0,17.0,11.0,1.0,0.0,36.36,1.0,new zealand,Dunedin,2013,0,England
+JE Root,0.0,4.0,2.0,0.0,0.0,0.0,3.0,new zealand,Dunedin,2013,0,England
+JE Root,10.0,24.0,20.0,1.0,0.0,50.0,1.0,new zealand,Wellington,2013,0,England
+JE Root,104.0,236.0,167.0,9.0,0.0,62.27,1.0,new zealand,Leeds,2013,1,England
+JE Root,28.0,32.0,22.0,4.0,0.0,127.27,3.0,new zealand,Leeds,2013,1,England
+JE Root,40.0,180.0,114.0,4.0,0.0,35.08,1.0,new zealand,Lord's,2013,1,England
+JE Root,71.0,178.0,120.0,8.0,0.0,59.16,3.0,new zealand,Lord's,2013,1,England
+JE Root,13.0,66.0,50.0,0.0,0.0,26.0,2.0,india,Lord's,2014,1,England
+JE Root,66.0,222.0,146.0,7.0,0.0,45.2,4.0,india,Lord's,2014,1,England
+JE Root,77.0,219.0,161.0,7.0,0.0,47.82,2.0,india,Manchester,2014,1,England
+JE Root,154.0,400.0,295.0,15.0,0.0,52.2,2.0,india,Nottingham,2014,1,England
+JE Root,3.0,46.0,25.0,0.0,0.0,12.0,1.0,india,Southampton,2014,1,England
+JE Root,56.0,66.0,41.0,9.0,0.0,136.58,3.0,india,Southampton,2014,1,England
+JE Root,149.0,268.0,165.0,18.0,1.0,90.3,2.0,india,The Oval,2014,1,England
+JE Root,13.0,48.0,32.0,2.0,0.0,40.62,2.0,sri lanka,Leeds,2014,1,England
+JE Root,31.0,161.0,108.0,4.0,0.0,28.7,4.0,sri lanka,Leeds,2014,1,England
+JE Root,200.0,500.0,298.0,16.0,0.0,67.11,1.0,sri lanka,Lord's,2014,1,England
+JE Root,15.0,32.0,18.0,2.0,0.0,83.33,3.0,sri lanka,Lord's,2014,1,England
+JE Root,63.0,113.0,75.0,9.0,1.0,84.0,2.0,australia,Birmingham,2015,1,England
+JE Root,38.0,89.0,63.0,6.0,1.0,60.31,4.0,australia,Birmingham,2015,1,England
+JE Root,134.0,247.0,166.0,17.0,0.0,80.72,1.0,australia,Cardiff,2015,1,England
+JE Root,60.0,133.0,89.0,9.0,0.0,67.41,3.0,australia,Cardiff,2015,1,England
+JE Root,1.0,6.0,4.0,0.0,0.0,25.0,2.0,australia,Lord's,2015,1,England
+JE Root,17.0,84.0,44.0,2.0,0.0,38.63,4.0,australia,Lord's,2015,1,England
+JE Root,130.0,246.0,176.0,19.0,1.0,73.86,2.0,australia,Nottingham,2015,1,England
+JE Root,6.0,59.0,39.0,1.0,0.0,15.38,2.0,australia,The Oval,2015,1,England
+JE Root,11.0,52.0,30.0,1.0,0.0,36.66,3.0,australia,The Oval,2015,1,England
+JE Root,1.0,6.0,5.0,0.0,0.0,20.0,2.0,new zealand,Leeds,2015,1,England
+JE Root,0.0,2.0,2.0,0.0,0.0,0.0,4.0,new zealand,Leeds,2015,1,England
+JE Root,98.0,218.0,161.0,11.0,0.0,60.86,1.0,new zealand,Lord's,2015,1,England
+JE Root,84.0,190.0,139.0,12.0,0.0,60.43,3.0,new zealand,Lord's,2015,1,England
+JE Root,24.0,55.0,37.0,2.0,1.0,64.86,1.0,south africa,Durban,2015,0,England
+JE Root,73.0,192.0,128.0,5.0,1.0,57.03,3.0,south africa,Durban,2015,0,England
+JE Root,33.0,58.0,35.0,5.0,0.0,94.28,1.0,west indies,Bridgetown,2015,0,England
+JE Root,1.0,34.0,13.0,0.0,0.0,7.69,3.0,west indies,Bridgetown,2015,0,England
+JE Root,83.0,186.0,133.0,11.0,0.0,62.4,1.0,west indies,North Sound,2015,0,England
+JE Root,59.0,134.0,79.0,5.0,1.0,74.68,3.0,west indies,North Sound,2015,0,England
+JE Root,182.0,333.0,229.0,17.0,4.0,79.47,2.0,west indies,St George's,2015,0,England
+JE Root,40.0,97.0,49.0,5.0,0.0,81.63,1.0,bangladesh,Chattogram,2016,0,England
+JE Root,1.0,6.0,4.0,0.0,0.0,25.0,3.0,bangladesh,Chattogram,2016,0,England
+JE Root,56.0,155.0,122.0,4.0,0.0,45.9,2.0,bangladesh,Dhaka,2016,0,England
+JE Root,1.0,4.0,2.0,0.0,0.0,50.0,4.0,bangladesh,Dhaka,2016,0,England
+JE Root,88.0,187.0,144.0,10.0,0.0,61.11,1.0,india,Chennai,2016,0,England
+JE Root,6.0,47.0,22.0,0.0,0.0,27.27,3.0,india,Chennai,2016,0,England
+JE Root,15.0,21.0,13.0,3.0,0.0,115.38,1.0,india,Mohali,2016,0,England
+JE Root,78.0,251.0,179.0,6.0,0.0,43.57,3.0,india,Mohali,2016,0,England
+JE Root,21.0,39.0,41.0,1.0,0.0,51.21,1.0,india,Mumbai,2016,0,England
+JE Root,77.0,127.0,112.0,11.0,0.0,68.75,3.0,india,Mumbai,2016,0,England
+JE Root,124.0,239.0,180.0,11.0,1.0,68.88,1.0,india,Rajkot,2016,0,England
+JE Root,4.0,10.0,5.0,0.0,0.0,80.0,3.0,india,Rajkot,2016,0,England
+JE Root,53.0,105.0,98.0,6.0,0.0,54.08,2.0,india,Visakhapatnam,2016,0,England
+JE Root,25.0,123.0,107.0,3.0,0.0,23.36,4.0,india,Visakhapatnam,2016,0,England
+JE Root,3.0,11.0,6.0,0.0,0.0,50.0,1.0,pakistan,Birmingham,2016,1,England
+JE Root,62.0,165.0,123.0,8.0,0.0,50.4,3.0,pakistan,Birmingham,2016,1,England
+JE Root,48.0,119.0,73.0,7.0,0.0,65.75,2.0,pakistan,Lord's,2016,1,England
+JE Root,9.0,50.0,30.0,2.0,0.0,30.0,4.0,pakistan,Lord's,2016,1,England
+JE Root,254.0,614.0,406.0,27.0,0.0,62.56,1.0,pakistan,Manchester,2016,1,England
+JE Root,71.0,59.0,48.0,10.0,0.0,147.91,3.0,pakistan,Manchester,2016,1,England
+JE Root,26.0,57.0,39.0,5.0,0.0,66.66,1.0,pakistan,The Oval,2016,1,England
+JE Root,39.0,82.0,46.0,4.0,0.0,84.78,3.0,pakistan,The Oval,2016,1,England
+JE Root,50.0,113.0,79.0,5.0,0.0,63.29,1.0,south africa,Cape Town,2016,0,England
+JE Root,29.0,50.0,29.0,5.0,0.0,100.0,3.0,south africa,Cape Town,2016,0,England
+JE Root,76.0,192.0,128.0,11.0,0.0,59.37,2.0,south africa,Centurion,2016,0,England
+JE Root,20.0,70.0,56.0,3.0,0.0,35.71,4.0,south africa,Centurion,2016,0,England
+JE Root,110.0,214.0,139.0,17.0,0.0,79.13,2.0,south africa,Johannesburg,2016,0,England
+JE Root,4.0,16.0,13.0,0.0,0.0,30.76,4.0,south africa,Johannesburg,2016,0,England
+JE Root,80.0,153.0,119.0,5.0,0.0,67.22,1.0,sri lanka,Chester-le-Street,2016,1,England
+JE Root,0.0,11.0,7.0,0.0,0.0,0.0,1.0,sri lanka,Leeds,2016,1,England
+JE Root,3.0,8.0,9.0,0.0,0.0,33.33,1.0,sri lanka,Lord's,2016,1,England
+JE Root,4.0,7.0,5.0,1.0,0.0,80.0,3.0,sri lanka,Lord's,2016,1,England
+JE Root,9.0,23.0,10.0,1.0,0.0,90.0,2.0,australia,Adelaide,2017,0,England
+JE Root,67.0,185.0,123.0,9.0,0.0,54.47,4.0,australia,Adelaide,2017,0,England
+JE Root,15.0,79.0,50.0,1.0,0.0,30.0,1.0,australia,Brisbane,2017,0,England
+JE Root,51.0,159.0,104.0,5.0,0.0,49.03,3.0,australia,Brisbane,2017,0,England
+JE Root,61.0,193.0,133.0,7.0,0.0,45.86,2.0,australia,Melbourne,2017,0,England
+JE Root,20.0,36.0,23.0,4.0,0.0,86.95,1.0,australia,Perth,2017,0,England
+JE Root,14.0,34.0,20.0,3.0,0.0,70.0,3.0,australia,Perth,2017,0,England
+JE Root,190.0,375.0,234.0,27.0,1.0,81.19,1.0,south africa,Lord's,2017,1,England
+JE Root,5.0,20.0,13.0,1.0,0.0,38.46,3.0,south africa,Lord's,2017,1,England
+JE Root,52.0,135.0,101.0,6.0,0.0,51.48,1.0,south africa,Manchester,2017,1,England
+JE Root,49.0,140.0,106.0,6.0,0.0,46.22,3.0,south africa,Manchester,2017,1,England
+JE Root,78.0,117.0,76.0,12.0,0.0,102.63,2.0,south africa,Nottingham,2017,1,England
+JE Root,8.0,34.0,20.0,0.0,0.0,40.0,4.0,south africa,Nottingham,2017,1,England
+JE Root,29.0,71.0,56.0,4.0,0.0,51.78,1.0,south africa,The Oval,2017,1,England
+JE Root,50.0,131.0,94.0,6.0,0.0,53.19,3.0,south africa,The Oval,2017,1,England
+JE Root,136.0,287.0,189.0,22.0,0.0,71.95,1.0,west indies,Birmingham,2017,1,England
+JE Root,59.0,156.0,98.0,9.0,0.0,60.2,1.0,west indies,Leeds,2017,1,England
+JE Root,72.0,187.0,111.0,15.0,0.0,64.86,3.0,west indies,Leeds,2017,1,England
+JE Root,1.0,13.0,2.0,0.0,0.0,50.0,2.0,west indies,Lord's,2017,1,England
+JE Root,83.0,225.0,141.0,8.0,0.0,58.86,1.0,australia,Sydney,2018,0,England
+JE Root,58.0,236.0,167.0,1.0,0.0,34.73,3.0,australia,Sydney,2018,0,England
+JE Root,80.0,243.0,156.0,9.0,0.0,51.28,1.0,india,Birmingham,2018,1,England
+JE Root,14.0,48.0,35.0,1.0,0.0,40.0,3.0,india,Birmingham,2018,1,England
+JE Root,19.0,82.0,53.0,2.0,0.0,35.84,2.0,india,Lord's,2018,1,England
+JE Root,16.0,68.0,29.0,2.0,0.0,55.17,2.0,india,Nottingham,2018,1,England
+JE Root,13.0,71.0,40.0,2.0,0.0,32.5,4.0,india,Nottingham,2018,1,England
+JE Root,4.0,26.0,14.0,0.0,0.0,28.57,1.0,india,Southampton,2018,1,England
+JE Root,48.0,140.0,88.0,6.0,0.0,54.54,3.0,india,Southampton,2018,1,England
+JE Root,0.0,4.0,3.0,0.0,0.0,0.0,1.0,india,The Oval,2018,1,England
+JE Root,125.0,264.0,190.0,12.0,1.0,65.78,3.0,india,The Oval,2018,1,England
+JE Root,0.0,9.0,6.0,0.0,0.0,0.0,1.0,new zealand,Auckland,2018,0,England
+JE Root,51.0,191.0,131.0,5.0,0.0,38.93,3.0,new zealand,Auckland,2018,0,England
+JE Root,37.0,80.0,63.0,5.0,0.0,58.73,1.0,new zealand,Christchurch,2018,0,England
+JE Root,54.0,182.0,128.0,4.0,0.0,42.18,3.0,new zealand,Christchurch,2018,0,England
+JE Root,45.0,117.0,72.0,6.0,0.0,62.5,2.0,pakistan,Leeds,2018,1,England
+JE Root,4.0,46.0,24.0,0.0,0.0,16.66,1.0,pakistan,Lord's,2018,1,England
+JE Root,68.0,187.0,120.0,8.0,0.0,56.66,3.0,pakistan,Lord's,2018,1,England
+JE Root,46.0,84.0,79.0,4.0,0.0,58.22,1.0,sri lanka,Colombo (SSC),2018,0,England
+JE Root,7.0,26.5,9.0,0.0,0.0,77.77,3.0,sri lanka,Colombo (SSC),2018,0,England
+JE Root,35.0,62.0,46.0,5.0,0.0,76.08,1.0,sri lanka,Galle,2018,0,England
+JE Root,3.0,11.0,19.0,0.0,0.0,15.78,3.0,sri lanka,Galle,2018,0,England
+JE Root,14.0,42.5,23.0,2.0,0.0,60.86,1.0,sri lanka,Pallekele,2018,0,England
+JE Root,124.0,239.0,146.0,10.0,2.0,84.93,3.0,sri lanka,Pallekele,2018,0,England
+JE Root,57.0,192.0,119.0,6.0,0.0,47.89,2.0,australia,Birmingham,2019,1,England
+JE Root,28.0,97.0,57.0,3.0,0.0,49.12,4.0,australia,Birmingham,2019,1,England
+JE Root,0.0,8.0,2.0,0.0,0.0,0.0,2.0,australia,Leeds,2019,1,England
+JE Root,77.0,322.0,205.0,7.0,0.0,37.56,4.0,australia,Leeds,2019,1,England
+JE Root,14.0,37.0,20.0,3.0,0.0,70.0,1.0,australia,Lord's,2019,1,England
+JE Root,0.0,2.0,1.0,0.0,0.0,0.0,3.0,australia,Lord's,2019,1,England
+JE Root,71.0,255.0,168.0,10.0,0.0,42.26,2.0,australia,Manchester,2019,1,England
+JE Root,0.0,2.0,1.0,0.0,0.0,0.0,4.0,australia,Manchester,2019,1,England
+JE Root,57.0,218.0,141.0,3.0,0.0,40.42,1.0,australia,The Oval,2019,1,England
+JE Root,21.0,54.0,26.0,2.0,0.0,80.76,3.0,australia,The Oval,2019,1,England
+JE Root,2.0,15.0,7.0,0.0,0.0,28.57,1.0,ireland,Lord's,2019,1,England
+JE Root,31.0,93.0,64.0,3.0,0.0,48.43,3.0,ireland,Lord's,2019,1,England
+JE Root,226.0,636.0,441.0,22.0,1.0,51.24,2.0,new zealand,Hamilton,2019,0,England
+JE Root,2.0,30.0,22.0,0.0,0.0,9.09,1.0,new zealand,Mount Maunganui,2019,0,England
+JE Root,11.0,54.0,51.0,2.0,0.0,21.56,3.0,new zealand,Mount Maunganui,2019,0,England
+JE Root,29.0,84.0,49.0,5.0,0.0,59.18,2.0,south africa,Centurion,2019,0,England
+JE Root,48.0,166.0,101.0,8.0,0.0,47.52,4.0,south africa,Centurion,2019,0,England
+JE Root,4.0,22.0,14.0,1.0,0.0,28.57,2.0,west indies,Bridgetown,2019,0,England
+JE Root,22.0,64.0,39.0,3.0,0.0,56.41,4.0,west indies,Bridgetown,2019,0,England
+JE Root,15.0,78.0,54.0,2.0,0.0,27.77,1.0,west indies,Gros Islet,2019,0,England
+JE Root,122.0,317.0,225.0,10.0,0.0,54.22,3.0,west indies,Gros Islet,2019,0,England
+JE Root,7.0,31.0,17.0,1.0,0.0,41.17,1.0,west indies,North Sound,2019,0,England
+JE Root,7.0,22.0,13.0,1.0,0.0,53.84,3.0,west indies,North Sound,2019,0,England
+JE Root,14.0,93.0,58.0,2.0,0.0,24.13,2.0,pakistan,Manchester,2020,1,England
+JE Root,42.0,110.0,84.0,7.0,0.0,50.0,4.0,pakistan,Manchester,2020,1,England
+JE Root,29.0,68.0,51.0,3.0,0.0,56.86,1.0,pakistan,Southampton,2020,1,England
+JE Root,9.0,49.0,35.0,0.0,0.0,25.71,2.0,pakistan,Southampton,2020,1,England
+JE Root,35.0,62.0,49.0,5.0,0.0,71.42,1.0,south africa,Cape Town,2020,0,England
+JE Root,61.0,154.0,98.0,7.0,0.0,62.24,3.0,south africa,Cape Town,2020,0,England
+JE Root,59.0,176.0,108.0,6.0,0.0,54.62,1.0,south africa,Johannesburg,2020,0,England
+JE Root,58.0,176.0,96.0,5.0,1.0,60.41,3.0,south africa,Johannesburg,2020,0,England
+JE Root,27.0,68.0,46.0,4.0,0.0,58.69,1.0,south africa,Port Elizabeth,2020,0,England
+JE Root,23.0,80.0,49.0,2.0,0.0,46.93,1.0,west indies,Manchester,2020,1,England
+JE Root,17.0,92.0,59.0,0.0,0.0,28.81,1.0,west indies,Manchester,2020,1,England
+JE Root,68.0,77.0,56.0,8.0,1.0,121.42,3.0,west indies,Manchester,2020,1,England
+JE Root,22.0,58.0,33.0,0.0,0.0,66.66,3.0,west indies,Manchester,2020,1,England
+JE Root,17.0,63.0,37.0,2.0,0.0,45.94,1.0,india,Ahmedabad,2021,0,England
+JE Root,5.0,24.0,9.0,1.0,0.0,55.55,1.0,india,Ahmedabad,2021,0,England
+JE Root,30.0,79.0,72.0,3.0,0.0,41.66,3.0,india,Ahmedabad,2021,0,England
+JE Root,19.0,69.0,45.0,0.0,0.0,42.22,3.0,india,Ahmedabad,2021,0,England
+JE Root,218.0,536.0,377.0,19.0,2.0,57.82,1.0,india,Chennai,2021,0,England
+JE Root,6.0,13.0,12.0,0.0,0.0,50.0,2.0,india,Chennai,2021,0,England
+JE Root,40.0,70.0,32.0,7.0,0.0,125.0,3.0,india,Chennai,2021,0,England
+JE Root,33.0,133.0,92.0,3.0,0.0,35.86,4.0,india,Chennai,2021,0,England
+JE Root,228.0,476.0,321.0,18.0,1.0,71.02,2.0,sri lanka,Galle,2021,0,England
+JE Root,186.0,495.0,309.0,18.0,0.0,60.19,2.0,sri lanka,Galle,2021,0,England
+JE Root,11.0,30.0,16.0,1.0,0.0,68.75,4.0,sri lanka,Galle,2021,0,England
+JE Root,1.0,6.0,3.0,0.0,0.0,33.33,4.0,sri lanka,Galle,2021,0,England

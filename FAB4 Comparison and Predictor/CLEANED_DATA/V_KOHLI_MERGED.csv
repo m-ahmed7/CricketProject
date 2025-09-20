@@ -1,0 +1,154 @@
+PlayerName,Runs,Minutes,BallsFaced,Fours,Sixes,StrikeRate,MatchInning,Opposition,Ground,Year,Home/Away,Nationality
+V Kohli,11,28.0,21,1,0,52.38,2,australia,Melbourne,2011,0,India
+V Kohli,0,3.0,1,0,0,0.0,4,australia,Melbourne,2011,0,India
+V Kohli,0,1.0,2,0,0,0.0,1,west indies,Bridgetown,2011,0,India
+V Kohli,27,118.0,107,1,1,25.23,3,west indies,Bridgetown,2011,0,India
+V Kohli,4,13.0,10,1,0,40.0,1,west indies,Kingston,2011,0,India
+V Kohli,15,72.0,54,2,0,27.77,3,west indies,Kingston,2011,0,India
+V Kohli,30,62.0,53,2,0,56.6,2,west indies,Roseau,2011,0,India
+V Kohli,52,154.0,111,5,0,46.84,2,west indies,Mumbai,2011,1,India
+V Kohli,63,136.0,114,3,1,55.26,4,west indies,Mumbai,2011,1,India
+V Kohli,116,237.0,213,11,1,54.46,2,australia,Adelaide,2012,0,India
+V Kohli,22,96.0,62,2,0,35.48,4,australia,Adelaide,2012,0,India
+V Kohli,44,107.0,81,6,0,54.32,1,australia,Perth,2012,0,India
+V Kohli,75,191.0,136,9,0,55.14,3,australia,Perth,2012,0,India
+V Kohli,23,50.0,41,3,0,56.09,1,australia,Sydney,2012,0,India
+V Kohli,9,35.0,24,2,0,37.5,3,australia,Sydney,2012,0,India
+V Kohli,19,70.0,67,3,0,28.35,1,england,Ahmedabad,2012,1,India
+V Kohli,14,17.0,21,3,0,66.66,4,england,Ahmedabad,2012,1,India
+V Kohli,6,31.0,24,1,0,25.0,1,england,Kolkata,2012,1,India
+V Kohli,20,86.0,60,3,0,33.33,3,england,Kolkata,2012,1,India
+V Kohli,19,65.0,55,3,0,34.54,1,england,Mumbai,2012,1,India
+V Kohli,7,16.0,13,1,0,53.84,3,england,Mumbai,2012,1,India
+V Kohli,103,356.0,295,11,0,34.91,2,england,Nagpur,2012,1,India
+V Kohli,103,284.0,193,14,1,53.36,2,new zealand,Bengaluru,2012,1,India
+V Kohli,51,130.0,82,9,0,62.19,4,new zealand,Bengaluru,2012,1,India
+V Kohli,58,143.0,107,8,0,54.2,1,new zealand,Hyderabad (Deccan),2012,1,India
+V Kohli,107,266.0,206,15,1,51.94,2,australia,Chennai,2013,1,India
+V Kohli,1,11.0,8,0,0,12.5,2,australia,Delhi,2013,1,India
+V Kohli,41,76.0,60,4,0,68.33,4,australia,Delhi,2013,1,India
+V Kohli,34,119.0,92,3,0,36.95,2,australia,Hyderabad (Deccan),2013,1,India
+V Kohli,67,157.0,129,7,1,51.93,2,australia,Mohali,2013,1,India
+V Kohli,34,80.0,61,6,0,55.73,4,australia,Mohali,2013,1,India
+V Kohli,46,114.0,87,5,0,52.87,1,south africa,Durban,2013,0,India
+V Kohli,11,26.0,27,1,0,40.74,3,south africa,Durban,2013,0,India
+V Kohli,119,257.0,181,18,0,65.74,1,south africa,Johannesburg,2013,0,India
+V Kohli,96,254.0,193,9,0,49.74,3,south africa,Johannesburg,2013,0,India
+V Kohli,3,13.0,5,0,0,60.0,2,west indies,Kolkata,2013,1,India
+V Kohli,57,80.0,78,5,0,73.07,2,west indies,Mumbai,2013,1,India
+V Kohli,115,267.0,184,12,0,62.5,2,australia,Adelaide,2014,0,India
+V Kohli,141,279.0,175,16,1,80.57,4,australia,Adelaide,2014,0,India
+V Kohli,19,50.0,27,1,0,70.37,1,australia,Brisbane,2014,0,India
+V Kohli,1,14.0,11,0,0,9.09,3,australia,Brisbane,2014,0,India
+V Kohli,169,380.0,272,18,0,62.13,2,australia,Melbourne,2014,0,India
+V Kohli,54,134.0,99,7,0,54.54,4,australia,Melbourne,2014,0,India
+V Kohli,25,39.0,34,4,0,73.52,1,england,Lord's,2014,0,India
+V Kohli,0,1.0,1,0,0,0.0,3,england,Lord's,2014,0,India
+V Kohli,0,3.0,2,0,0,0.0,1,england,Manchester,2014,0,India
+V Kohli,7,15.0,11,1,0,63.63,3,england,Manchester,2014,0,India
+V Kohli,1,6.0,8,0,0,12.5,1,england,Nottingham,2014,0,India
+V Kohli,8,39.0,29,1,0,27.58,3,england,Nottingham,2014,0,India
+V Kohli,39,119.0,75,3,0,52.0,2,england,Southampton,2014,0,India
+V Kohli,28,77.0,56,3,0,50.0,4,england,Southampton,2014,0,India
+V Kohli,6,34.0,18,1,0,33.33,1,england,The Oval,2014,0,India
+V Kohli,20,80.0,54,2,0,37.03,3,england,The Oval,2014,0,India
+V Kohli,4,17.0,13,1,0,30.76,2,new zealand,Auckland,2014,0,India
+V Kohli,67,131.0,102,12,0,65.68,4,new zealand,Auckland,2014,0,India
+V Kohli,38,131.0,93,4,0,40.86,2,new zealand,Wellington,2014,0,India
+V Kohli,105,195.0,135,15,1,77.77,4,new zealand,Wellington,2014,0,India
+V Kohli,147,315.0,230,20,0,63.91,2,australia,Sydney,2015,0,India
+V Kohli,46,123.0,95,3,0,48.42,4,australia,Sydney,2015,0,India
+V Kohli,14,17.0,22,2,0,63.63,1,bangladesh,Fatullah,2015,0,India
+V Kohli,44,74.0,62,7,0,70.96,1,south africa,Delhi,2015,1,India
+V Kohli,88,259.0,165,10,0,53.33,3,south africa,Delhi,2015,1,India
+V Kohli,1,5.0,4,0,0,25.0,1,south africa,Mohali,2015,1,India
+V Kohli,29,92.0,71,4,0,40.84,3,south africa,Mohali,2015,1,India
+V Kohli,22,73.0,55,2,0,40.0,1,south africa,Nagpur,2015,1,India
+V Kohli,16,49.0,30,2,0,53.33,3,south africa,Nagpur,2015,1,India
+V Kohli,78,178.0,107,8,1,72.89,1,sri lanka,Colombo (PSS),2015,0,India
+V Kohli,10,33.0,19,0,0,52.63,3,sri lanka,Colombo (PSS),2015,0,India
+V Kohli,18,96.0,60,3,0,30.0,1,sri lanka,Colombo (SSC),2015,0,India
+V Kohli,21,87.0,63,2,0,33.33,3,sri lanka,Colombo (SSC),2015,0,India
+V Kohli,103,266.0,191,11,0,53.92,2,sri lanka,Galle,2015,0,India
+V Kohli,3,14.0,10,0,0,30.0,4,sri lanka,Galle,2015,0,India
+V Kohli,15,44.0,29,1,0,51.72,2,england,Chennai,2016,1,India
+V Kohli,62,161.0,127,9,0,48.81,2,england,Mohali,2016,1,India
+V Kohli,6,11.0,11,0,0,54.54,4,england,Mohali,2016,1,India
+V Kohli,235,515.0,340,25,1,69.11,2,england,Mumbai,2016,1,India
+V Kohli,40,135.0,95,5,0,42.1,2,england,Rajkot,2016,1,India
+V Kohli,49,129.0,98,6,0,50.0,4,england,Rajkot,2016,1,India
+V Kohli,167,401.0,267,18,0,62.54,1,england,Visakhapatnam,2016,1,India
+V Kohli,81,172.0,109,8,0,74.31,3,england,Visakhapatnam,2016,1,India
+V Kohli,211,536.0,366,20,0,57.65,1,new zealand,Indore,2016,1,India
+V Kohli,17,36.0,28,1,0,60.71,3,new zealand,Indore,2016,1,India
+V Kohli,9,12.0,10,2,0,90.0,1,new zealand,Kanpur,2016,1,India
+V Kohli,18,45.0,40,3,0,45.0,3,new zealand,Kanpur,2016,1,India
+V Kohli,9,42.0,28,1,0,32.14,1,new zealand,Kolkata,2016,1,India
+V Kohli,45,82.0,65,7,0,69.23,3,new zealand,Kolkata,2016,1,India
+V Kohli,3,17.0,8,0,0,37.5,1,west indies,Gros Islet,2016,0,India
+V Kohli,4,21.0,17,0,0,23.52,3,west indies,Gros Islet,2016,0,India
+V Kohli,44,144.0,90,4,1,48.88,2,west indies,Kingston,2016,0,India
+V Kohli,200,375.0,283,24,0,70.67,1,west indies,North Sound,2016,0,India
+V Kohli,12,25.0,17,2,0,70.58,1,australia,Bengaluru,2017,1,India
+V Kohli,15,34.0,25,1,0,60.0,3,australia,Bengaluru,2017,1,India
+V Kohli,0,2.0,2,0,0,0.0,2,australia,Pune,2017,1,India
+V Kohli,13,33.0,37,1,0,35.13,4,australia,Pune,2017,1,India
+V Kohli,6,38.0,23,0,0,26.08,2,australia,Ranchi,2017,1,India
+V Kohli,204,295.0,246,24,0,82.92,1,bangladesh,Hyderabad (Deccan),2017,1,India
+V Kohli,38,51.0,40,2,1,95.0,3,bangladesh,Hyderabad (Deccan),2017,1,India
+V Kohli,13,31.0,29,2,0,44.82,1,sri lanka,Colombo (SSC),2017,0,India
+V Kohli,3,15.0,8,0,0,37.5,1,sri lanka,Galle,2017,0,India
+V Kohli,103,158.0,136,5,1,75.73,3,sri lanka,Galle,2017,0,India
+V Kohli,42,119.0,84,3,0,50.0,1,sri lanka,Pallekele,2017,0,India
+V Kohli,243,447.0,287,25,0,84.66,1,sri lanka,Delhi,2017,1,India
+V Kohli,50,89.0,58,3,0,86.2,3,sri lanka,Delhi,2017,1,India
+V Kohli,0,18.0,11,0,0,0.0,1,sri lanka,Kolkata,2017,1,India
+V Kohli,104,208.0,119,12,2,87.39,3,sri lanka,Kolkata,2017,1,India
+V Kohli,213,386.0,267,17,2,79.77,2,sri lanka,Nagpur,2017,1,India
+V Kohli,3,17.0,16,0,0,18.75,1,australia,Adelaide,2018,0,India
+V Kohli,34,132.0,104,3,0,32.69,3,australia,Adelaide,2018,0,India
+V Kohli,82,305.0,204,9,0,40.19,1,australia,Melbourne,2018,0,India
+V Kohli,0,6.0,4,0,0,0.0,3,australia,Melbourne,2018,0,India
+V Kohli,123,373.0,257,13,1,47.85,2,australia,Perth,2018,0,India
+V Kohli,17,64.0,40,2,0,42.5,4,australia,Perth,2018,0,India
+V Kohli,149,277.0,225,22,1,66.22,2,england,Birmingham,2018,0,India
+V Kohli,51,185.0,93,4,0,54.83,4,england,Birmingham,2018,0,India
+V Kohli,23,73.0,57,2,0,40.35,1,england,Lord's,2018,0,India
+V Kohli,17,57.0,29,2,0,58.62,3,england,Lord's,2018,0,India
+V Kohli,97,243.0,152,11,0,63.81,1,england,Nottingham,2018,0,India
+V Kohli,103,292.0,197,10,0,52.28,3,england,Nottingham,2018,0,India
+V Kohli,46,100.0,71,6,0,64.78,2,england,Southampton,2018,0,India
+V Kohli,58,170.0,130,4,0,44.61,4,england,Southampton,2018,0,India
+V Kohli,49,112.0,70,6,0,70.0,2,england,The Oval,2018,0,India
+V Kohli,0,3.0,1,0,0,0.0,4,england,The Oval,2018,0,India
+V Kohli,5,14.0,13,0,0,38.46,2,south africa,Cape Town,2018,0,India
+V Kohli,28,62.0,40,4,0,70.0,4,south africa,Cape Town,2018,0,India
+V Kohli,153,379.0,217,15,0,70.5,2,south africa,Centurion,2018,0,India
+V Kohli,5,22.0,20,1,0,25.0,4,south africa,Centurion,2018,0,India
+V Kohli,54,146.0,106,9,0,50.94,1,south africa,Johannesburg,2018,0,India
+V Kohli,41,131.0,79,6,0,51.89,3,south africa,Johannesburg,2018,0,India
+V Kohli,45,86.0,78,5,0,57.69,2,west indies,Hyderabad (Deccan),2018,1,India
+V Kohli,139,341.0,230,10,0,60.43,1,west indies,Rajkot,2018,1,India
+V Kohli,23,61.5,59,4,0,38.98,1,australia,Sydney,2019,0,India
+V Kohli,0,3.0,2,0,0,0.0,2,bangladesh,Indore,2019,1,India
+V Kohli,136,80.0,194,18,0,70.1,2,bangladesh,Kolkata,2019,1,India
+V Kohli,254,80.0,336,33,2,75.59,1,south africa,Pune,2019,1,India
+V Kohli,12,25.0,22,2,0,54.54,1,south africa,Ranchi,2019,1,India
+V Kohli,20,83.0,40,4,0,50.0,1,south africa,Visakhapatnam,2019,1,India
+V Kohli,31,80.0,25,3,1,124.0,3,south africa,Visakhapatnam,2019,1,India
+V Kohli,76,211.0,163,10,0,46.62,1,west indies,Kingston,2019,0,India
+V Kohli,0,3.0,1,0,0,0.0,3,west indies,Kingston,2019,0,India
+V Kohli,9,35.0,12,2,0,75.0,1,west indies,North Sound,2019,0,India
+V Kohli,51,157.5,113,2,0,45.13,3,west indies,North Sound,2019,0,India
+V Kohli,74,244.0,180,8,0,41.11,1,australia,Adelaide,2020,0,India
+V Kohli,4,13.0,8,1,0,50.0,3,australia,Adelaide,2020,0,India
+V Kohli,3,23.0,15,0,0,20.0,1,new zealand,Christchurch,2020,0,India
+V Kohli,14,40.0,30,3,0,46.66,3,new zealand,Christchurch,2020,0,India
+V Kohli,2,9.0,7,0,0,28.57,1,new zealand,Wellington,2020,0,India
+V Kohli,19,61.0,43,3,0,44.18,3,new zealand,Wellington,2020,0,India
+V Kohli,27,85.0,58,3,0,46.55,2,england,Ahmedabad,2021,1,India
+V Kohli,0,13.0,8,0,0,0.0,2,england,Ahmedabad,2021,1,India
+V Kohli,0,6.0,5,0,0,0.0,1,england,Chennai,2021,1,India
+V Kohli,11,69.0,48,0,0,22.91,2,england,Chennai,2021,1,India
+V Kohli,62,200.0,149,7,0,41.61,3,england,Chennai,2021,1,India
+V Kohli,72,153.0,104,9,0,69.23,4,england,Chennai,2021,1,India
